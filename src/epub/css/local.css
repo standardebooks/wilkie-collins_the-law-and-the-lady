@@ -41,10 +41,9 @@
 }
 
 /* Letter styling */
-
 [epub|type~="z3998:letter"] header{
+	margin-bottom: .5em;
 	text-align: right;
-	margin-bottom: 0.5em;
 }
 
 [epub|type~="z3998:sender"]{
@@ -71,7 +70,9 @@ p[epub|type~="z3998:salutation"]{
 	text-indent: 0;
 }
 
-.telegram{ font-variant: all-small-caps; }
+.telegram{
+	font-variant: all-small-caps;
+}
 
 /* Poetry */
 [epub|type~="z3998:poem"] p,
