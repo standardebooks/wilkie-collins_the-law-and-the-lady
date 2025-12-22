@@ -2,24 +2,20 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 #chapter-10 blockquote p:nth-of-type(3){
-	font-size: 1.5em;
+	font-size: x-large;
 }
 
 #chapter-15 table{
-	margin: 0 auto;
-	margin: 1em;
-	text-align: initial;
-	width: 80%;
+	margin: 1em auto;
 }
 
-#chapter-15 tr td:first-child{
+#chapter-15 tr td{
 	width: 50%;
 }
 
-#chapter-15 tr td:nth-child(2){
-	border-left: 2px solid;
+#chapter-15 tr td + td{
+	border-left: 1px solid;
 	padding-left: .5em;
-	width: 50%;
 }
 
 #chapter-10 blockquote p,
@@ -39,16 +35,12 @@
 	text-align: right;
 }
 
-[epub|type~="z3998:sender"]{
-	font-variant: small-caps;
-	margin-bottom: .5em;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
 }
 
+[epub|type~="z3998:sender"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
