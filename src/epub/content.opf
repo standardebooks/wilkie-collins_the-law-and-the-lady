@@ -49,7 +49,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1622</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006155823</dc:source>
 		<meta property="se:production-notes">Capitalised instances of the words “me” and “you” have been changed to lower case and given emphasis tags.</meta>
-		<meta property="se:word-count">142153</meta>
+		<meta property="se:word-count">140792</meta>
 		<meta property="se:reading-ease.flesch">73.88</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Law_and_the_Lady</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/wilkie-collins_the-law-and-the-lady</meta>
