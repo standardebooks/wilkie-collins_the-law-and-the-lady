@@ -41,7 +41,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>After a young woman discovers that her husband is concealing a terrible secret, she vows to discover the truth.</dc:abstract>
+		<meta property="schema:abstract">After a young woman discovers that her husband is concealing a terrible secret, she vows to discover the truth.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Law and the Lady&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/wilkie-collins"&gt;Wilkie Collins&lt;/a&gt; was published in 1875. As in many of Collins’ novels, it deals with themes considered sensational or scandalous by Victorian society, and features a strong-willed, intelligent woman unwilling to be bound by society’s conventional attitudes. It also treats the subject of disability with some compassion, featuring a man born without legs as a major character.&lt;/p&gt;
 			&lt;p&gt;The novel, told in the first person by a young woman named Valeria Brinton, begins with her wedding to a somewhat older man, Eustace Woodville. After their honeymoon, she accidentally discovers that he has married her under a false name. When she pursues this issue, Eustace leaves her, pleading with her not to follow him or ask for more details. There’s obviously a dark secret in his past, and ignoring his pleas, Valeria pushes on to seek the truth.&lt;/p&gt;
